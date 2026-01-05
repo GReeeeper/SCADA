@@ -89,7 +89,8 @@ sudo ./firewall
 ---
 
 ## 📸 Screenshots
-*(Add HMI screenshots here)*
+![WhatsApp Image 2026-01-06 at 00 05 59](https://github.com/user-attachments/assets/aafeb14c-7f0d-4e42-8183-f37415bf59f0)
+
 
 ---
 
