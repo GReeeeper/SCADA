@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# C / Build Artifacts
+*.o
+*.out
+firewall
+
+# OS
+.DS_Store
